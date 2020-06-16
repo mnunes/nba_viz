@@ -3,3 +3,4 @@
 .RData
 .Ruserdata
 data/NBAShotLocations19972020.csv
+data/nba.rda
